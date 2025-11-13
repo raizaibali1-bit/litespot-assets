@@ -1,0 +1,2 @@
+# litespot-assets
+Self Hosted
